@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+node_modules/
+coverage/
+*.log
+*.pem
+*.key
+/main.tex
+main.aux
+main.log
+main.out
+main.toc
+main.synctex.gz
+.DS_Store
